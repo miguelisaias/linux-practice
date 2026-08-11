@@ -1,0 +1,3 @@
+git add .
+git commit -m "dia 01 - navegacion archivos y grep"
+git push -u origin main
